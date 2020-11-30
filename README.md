@@ -1,11 +1,7 @@
 ## Wordpress-Docker
-
 # Download and Install docker 
-<<<<<<< HEAD
+
   [Download LInk](https://www.docker.com/)
-=======
-  https://www.docker.com/
->>>>>>> 58228875f4f8e171865a02d124ad321417998bf7
 
 You can use Docker Compose to easily run WordPress in an isolated environment built with Docker containers. This quick-start guide demonstrates how to use Compose to set up and run WordPress. Before starting, make sure you have Compose installed.
 
