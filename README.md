@@ -29,5 +29,5 @@ mariadb:
     volumes:
      - ./database:/var/lib/mysql
 
-# step 3 run
+# step 3 Run this command
          docker-compose up -d
