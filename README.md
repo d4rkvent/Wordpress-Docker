@@ -9,8 +9,8 @@ You can use Docker Compose to easily run WordPress in an isolated environment bu
 
 #### Step 1 : Create two empty folders 
 >database
-html
-docker-compose.yml
+>html
+>docker-compose.yml
 
 
 #### Step 2 : Create docker-compose.yml file
