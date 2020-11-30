@@ -9,7 +9,7 @@ You can use Docker Compose to easily run WordPress in an isolated environment bu
            docker-compose.yml
 
 
-# Step 2 : create docker-compose.yml file
+# Step 2 : Create docker-compose.yml file
 
 wordpress:
     image: wordpress
@@ -29,4 +29,5 @@ mariadb:
     volumes:
      - ./database:/var/lib/mysql
 
-# step 3 docker-compose up -d
+# step 3 run
+         docker-compose up -d
