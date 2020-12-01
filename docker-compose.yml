@@ -9,7 +9,7 @@ wordpress:
     volumes:
      - ./html:/var/www/html
 mariadb:
-    image: mariadb:10.0.33
+    image: mariadb
     environment:
      - MYSQL_ROOT_PASSWORD=password
      - MYSQL_DATABASE=wordpress
